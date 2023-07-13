@@ -1,2 +1,4 @@
 # PowerBI_Dashboard
-Contains all the dasboards created using Power BI.
+Contains all the dashboards created using Power BI.
+
+Hope you like:)
